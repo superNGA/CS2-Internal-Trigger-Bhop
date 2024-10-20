@@ -6,7 +6,7 @@ This is a internal bhop + trigger bot cheat.
   bind mouse wheel down to +jump; -jump; (de subtick jump)
   bing mouse wheel up to -jump;
 
-#Guide
+# Guide
   pressing END will uninject the cheat
   use manual mapping to inject
   hold down mouse 5 button for trigger bot
